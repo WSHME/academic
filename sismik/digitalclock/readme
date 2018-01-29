@@ -1,6 +1,10 @@
 Created By: Naufalino Fadel Hutomo (13214138) & Adi Trisna (13214122)
 Sistem Mikroprosessor - Tugas Jam Digital
+NOTE : JANGAN COPY PASTE SELURUHNYA. Tujuan repository ini ialah agar hasil tugas mahasiswa semakin membaik, bukan untuk disalin begitu saja 
 Untuk bahasa C, lihat digitalclock.c, bahasa arduino lihat digitalclock.ino
+Skematik ada di repo ini
+Diagram FSM, flowchart terlampir di repo
+
 
 Fitur
 - Jam digital menampilkan MM:SS atau JJ:MM
