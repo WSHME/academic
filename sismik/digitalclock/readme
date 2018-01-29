@@ -1,0 +1,9 @@
+Created By: Naufalino Fadel Hutomo (13214138) & Adi Trisna (13214122)
+Sistem Mikroprosessor - Tugas Jam Digital
+Untuk bahasa C, lihat digitalclock.c, bahasa arduino lihat digitalclock.ino
+
+Fitur
+- Jam digital menampilkan MM:SS atau JJ:MM
+- Terdapat state machine, 5 state, yang diatur sesuai input dari tombol
+- Terdapat 2 tombol
+- Menggunakan interrupt agar penghitungan detik akurat. Terdapat pembulatan micros menyesuaikan dengan timer internal arduino uno
