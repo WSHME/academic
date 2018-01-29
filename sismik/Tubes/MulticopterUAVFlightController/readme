@@ -1,0 +1,16 @@
+Sistem Mikroprosessor - Final Projects
+Created At : 2016
+MUFC-Multicopter UAV Flight Controller --Auto Levelling
+ Modified by: Naufalino Fadel Hutomo (13214138) and Adi Trisna (13214122)
+ Inspired By: J. Brokking, Oct 2016
+ 
+NOTE : DO NOT ONLY COPY PASTE. 
+The purpose of this repository is for students to keep improving and not redoing the basic things again and again so the quality of the assignment will increase
+
+Materials Needed
+- Quadcopter, with X frame configuration. If you have different multicopter, need to reconfigure with motion equation in the source code
+- Microcontroller AVR based (such as Arduino)
+- AVR environtment and uploader 
+- there are source code for calibration, setup, and flight controller
+- The setup are saved in EEPROM. Ensure your microcontroller has enough EEPROM space (most microcontroller is enough i think)
+- The source code are available in C. The folder with title YMFC... is the original arduino code from J. Brokking (God Bless him)
